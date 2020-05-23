@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\LENOVO\Desktop\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
