@@ -1,2 +1,2 @@
-# Bilgi-Yar-mas-
-Görsel Programlama - Basit Bilgi Yarışması Çalışması
+# Bilgi Yarismasi
+Görsel Programlama - Basit Bilgi Yarismasi Calismasi
